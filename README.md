@@ -97,7 +97,7 @@ approach: End-to-end ownership, from silicon to cloud
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/abdrah3em/abdrah3em/blob/output/github-snake-dark.svg)
 </div>
 
 <hr/>
