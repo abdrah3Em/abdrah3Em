@@ -92,20 +92,8 @@ approach: End-to-end ownership, from silicon to cloud
 </div>
 
 ---
-<br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
 ![snake gif](https://github.com/abdrah3em/abdrah3em/blob/output/github-snake-dark.svg)
-</div>
-
-<hr/>
----
-
-
-
-
 
 
 ## 🌐 **Connect & Collaborate**
@@ -118,7 +106,6 @@ approach: End-to-end ownership, from silicon to cloud
   </a>
   
   <br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdrah3em.abdrah3em" />
   <img src="https://komarev.com/ghpvc/?username=abdrah3em&style=for-the-badge&color=red&label=Profile+Views" alt="Profile Views" />
 </div>
 
