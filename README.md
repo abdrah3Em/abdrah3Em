@@ -36,7 +36,7 @@ approach: End-to-end ownership, from silicon to cloud
 - 📚 **Technology Agnostic**: Mastering tools as needed
 
 ---
-
+<br><br>
 ## 🧠 **Arsenal of Technologies**
 
 <div align="center">
@@ -54,7 +54,7 @@ approach: End-to-end ownership, from silicon to cloud
 </div>
 
 ---
-
+<br><br>
 ## 📊 **Battle Statistics**
 
 <div align="center">
@@ -82,7 +82,7 @@ approach: End-to-end ownership, from silicon to cloud
 
 
 ---
-
+<br><br>
 ## 📈 **Contribution Graph**
 
 <div align="center">
@@ -90,10 +90,11 @@ approach: End-to-end ownership, from silicon to cloud
 </div>
 
 ---
+<br><br>
 
 ![snake gif](https://github.com/abdrah3em/abdrah3em/blob/output/github-snake-dark.svg)
 
-
+<br><br>
 ## 🌐 **Connect & Collaborate**
 
 <div align="center">
