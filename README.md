@@ -47,7 +47,7 @@ approach: End-to-end ownership, from silicon to cloud
 </div>
 
 ---
-## **Battle Statistics**
+## 📊 **Battle Statistics**
 
 <div align="center">
   <table style="background-color: #0D1117; border: 2px solid #30363D; border-collapse: collapse;">
@@ -56,7 +56,7 @@ approach: End-to-end ownership, from silicon to cloud
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdrah3em&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ff4b2b&text_color=ffffff&border_color=30363D" alt="GitHub Stats" />
       </td>
       <td style="border: 1px solid #30363D; padding: 10px;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrah3em&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&border_color=30363D" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrah3em&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4b2b&text_color=ffffff&border_color=30363D" alt="Top Languages" />
       </td>
     </tr>
   </table>
