@@ -15,7 +15,6 @@
 ---
 
 
-## 🔍 **About Me**
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF4B2B&lines=Hi+There!+👋;+I'm+Abdraheem!;" />
@@ -59,27 +58,28 @@ approach: End-to-end ownership, from silicon to cloud
 ## 📊 **Battle Statistics**
 
 <div align="center">
-  <table style="background-color: #000000; border: 2px solid #666666; border-collapse: collapse;">
+  <table style="background-color: #0D1117; border: 2px solid #30363D; border-collapse: collapse;">
     <tr>
-      <td style="border: 1px solid #666666; padding: 10px;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdrah3em&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=666666" alt="GitHub Stats" />
+      <td style="border: 1px solid #30363D; padding: 10px;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdrah3em&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4b2b&icon_color=ff4b2b&text_color=ffffff&border_color=30363D" alt="GitHub Stats" />
       </td>
-      <td style="border: 1px solid #666666; padding: 10px;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrah3em&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=666666" alt="Top Languages" />
+      <td style="border: 1px solid #30363D; padding: 10px;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrah3em&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4b2b&text_color=ffffff&border_color=30363D" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <table style="background-color: #000000; border: 2px solid #666666; border-collapse: collapse;">
+  <table style="background-color: #0D1117; border: 2px solid #30363D; border-collapse: collapse;">
     <tr>
-      <td style="border: 1px solid #666666; padding: 10px;">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdrah3em&theme=radical&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&border=666666" alt="GitHub Streak" />
+      <td style="border: 1px solid #30363D; padding: 10px;">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdrah3em&theme=radical&hide_border=true&background=0D1117&ring=ff4b2b&fire=ff4b2b&currStreakLabel=ffffff&border=30363D" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ---
@@ -91,11 +91,10 @@ approach: End-to-end ownership, from silicon to cloud
 </div>
 
 ---
-<br><br>
 
 ![snake gif](https://github.com/abdrah3em/abdrah3em/blob/output/github-snake-dark.svg)
 
-<br><br>
+
 ## 🌐 **Connect & Collaborate**
 
 <div align="center">
