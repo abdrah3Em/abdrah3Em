@@ -22,8 +22,6 @@ role: Software Engineer & System Architect
 Location: "127.0.0.1"
 approach: End-to-end ownership, from silicon to cloud
 ```
-<br><br>
-
 
 - 🛠 **Full-Stack Mastery**: Build and maintain complete software ecosystems
 - ⚙️ **Hardware to Software**: From embedded systems to cloud infrastructure  
@@ -106,9 +104,7 @@ approach: End-to-end ownership, from silicon to cloud
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:F94D6A&height=120&section=footer&animation=twinkling" />
 </div>
-
-
 <div align="center">
  
-  <h3>⚡Programming is the closest thing we have to magic ⚡</h3>
+  <h3> Programming is the closest thing we have to magic </h3>
 </div>
