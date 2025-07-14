@@ -101,7 +101,6 @@ approach: End-to-end ownership, from silicon to cloud
 </div>
 
 <hr/>
-
 ---
 
 
