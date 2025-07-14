@@ -30,7 +30,7 @@ approach: End-to-end ownership, from silicon to cloud
 
 ---
 
-## 🧠 **Arsenal of Technologies**
+## **Arsenal of Technologies**
 
 <div align="center">
   <h3>💻 Programming Languages</h3>
@@ -47,8 +47,7 @@ approach: End-to-end ownership, from silicon to cloud
 </div>
 
 ---
-
-## 📊 **Battle Statistics**
+## **Battle Statistics**
 
 <div align="center">
   <table style="background-color: #0D1117; border: 2px solid #30363D; border-collapse: collapse;">
@@ -75,9 +74,10 @@ approach: End-to-end ownership, from silicon to cloud
 
 
 
+
 ---
 
-## 📈 **Contribution Graph**
+## **Contribution Graph**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdrah3em&theme=redical&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true&area_color=ff0000" alt="Contribution Graph" />
@@ -88,7 +88,7 @@ approach: End-to-end ownership, from silicon to cloud
 ![snake gif](https://github.com/abdrah3em/abdrah3em/blob/output/github-snake-dark.svg)
 
 
-## 🌐 **Connect & Collaborate**
+## **Connect & Collaborate**
 
 <div align="center">
   <h3>Let's build something extraordinary together</h3>
