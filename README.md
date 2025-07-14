@@ -24,8 +24,6 @@ approach: End-to-end ownership, from silicon to cloud
 
 ---
 
-## **Arsenal of Technologies**
-
 <div align="center">
   <h3>💻 Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,dart&theme=dark" />
