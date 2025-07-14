@@ -69,7 +69,7 @@ approach: End-to-end ownership, from silicon to cloud
 ## **Contribution Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdrah3em&theme=redical&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true&area_color=ff0000" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdrah3em&theme=redical&bg_color=0D1117&color=ffffff&line=ff4b2b&point=ff4b2b&area=true&hide_border=true&area_color=ff4b2b" alt="Contribution Graph" />
 </div>
 
 ---
