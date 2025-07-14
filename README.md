@@ -1,20 +1,15 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:F94D6A&height=200&section=header&text=ABDRAHEEM&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" />
 </div>
-
-
-
 ---
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=FFFFFF&lines=Hi+There!+👋;+I'm+Abdraheem!;I+Write+My+Own+Software+⚡" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=FFFFFF&lines=Hi+There!+👋;+I'm+Abdraheem!;I+Write+My+Own+Software+" alt="Typing animation" />
   </h1>
 </div>
 
 ---
-
-
 
 ```yaml
 name: Abdraheem
@@ -23,10 +18,10 @@ Location: "127.0.0.1"
 approach: End-to-end ownership, from silicon to cloud
 ```
 
-- 🛠 **Full-Stack Mastery**: Build and maintain complete software ecosystems
-- ⚙️ **Hardware to Software**: From embedded systems to cloud infrastructure  
-- 🔬 **Innovation Focus**: Experimental work across firmware, graphics, and UI frameworks
-- 📚 **Technology Agnostic**: Mastering tools as needed
+- **Full-Stack Mastery**: Build and maintain complete software ecosystems
+- **Hardware to Software**: From embedded systems to cloud infrastructure  
+- **Innovation Focus**: Experimental work across firmware, graphics, and UI frameworks
+- **Technology Agnostic**: Mastering tools as needed
 
 ---
 
@@ -72,9 +67,6 @@ approach: End-to-end ownership, from silicon to cloud
   </table>
 </div>
 
-
-
-
 ---
 
 ## **Contribution Graph**
@@ -86,7 +78,6 @@ approach: End-to-end ownership, from silicon to cloud
 ---
 
 ![snake gif](https://github.com/abdrah3em/abdrah3em/blob/output/github-snake-dark.svg)
-
 
 ## **Connect & Collaborate**
 
@@ -105,6 +96,5 @@ approach: End-to-end ownership, from silicon to cloud
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:F94D6A&height=120&section=footer&animation=twinkling" />
 </div>
 <div align="center">
- 
   <h3> Programming is the closest thing we have to magic </h3>
 </div>
