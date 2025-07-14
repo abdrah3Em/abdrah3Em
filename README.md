@@ -7,18 +7,13 @@
 ---
 
 <div align="center">
- 
- <h1>⚡ <span style="color: #ff0000;">I Write My Own Software</span> ⚡</h1>
- 
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=FFFFFF&lines=Hi+There!+👋;+I'm+Abdraheem!;I+Write+My+Own+Software+⚡" alt="Typing animation" />
+  </h1>
 </div>
 
 ---
 
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF4B2B&lines=Hi+There!+👋;+I'm+Abdraheem!;" />
-</h1>
 
 
 ```yaml
@@ -36,7 +31,7 @@ approach: End-to-end ownership, from silicon to cloud
 - 📚 **Technology Agnostic**: Mastering tools as needed
 
 ---
-<br><br>
+
 ## 🧠 **Arsenal of Technologies**
 
 <div align="center">
@@ -54,7 +49,7 @@ approach: End-to-end ownership, from silicon to cloud
 </div>
 
 ---
-<br><br>
+
 ## 📊 **Battle Statistics**
 
 <div align="center">
@@ -83,7 +78,7 @@ approach: End-to-end ownership, from silicon to cloud
 
 
 ---
-<br><br>
+
 ## 📈 **Contribution Graph**
 
 <div align="center">
@@ -103,8 +98,6 @@ approach: End-to-end ownership, from silicon to cloud
   <a href="https://github.com/abdrah3em">
     <img src="https://img.shields.io/github/followers/abdrah3em?label=Follow&style=for-the-badge&color=red&labelColor=black&logo=github" alt="GitHub Followers" />
   </a>
-  
-  <br><br>
   <img src="https://komarev.com/ghpvc/?username=abdrah3em&style=for-the-badge&color=red&label=Profile+Views" alt="Profile Views" />
 </div>
 
