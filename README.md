@@ -66,8 +66,6 @@ approach: End-to-end ownership, from silicon to cloud
 
 ---
 
-## **Contribution Graph**
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdrah3em&theme=redical&bg_color=0D1117&color=ffffff&line=ff4b2b&point=ff4b2b&area=true&hide_border=true&area_color=ff4b2b" alt="Contribution Graph" />
 </div>
@@ -76,7 +74,6 @@ approach: End-to-end ownership, from silicon to cloud
 
 ![snake gif](https://github.com/abdrah3em/abdrah3em/blob/output/github-snake-dark.svg)
 
-## **Connect & Collaborate**
 
 <div align="center">
   <h3>Let's build something extraordinary together</h3>
